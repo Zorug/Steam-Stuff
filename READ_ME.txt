@@ -1,0 +1,3 @@
+Este programa tem como objetivo... ainda não sei, só para teste do git mesmo...
+
+O CSV atualizado é baixado em: https://steam.tools/cards/
