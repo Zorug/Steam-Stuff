@@ -1,4 +1,6 @@
-Este programa tem como objetivo... ainda não sei, só para teste do git mesmo...
+# Objetivo
+
+Verificar se vale mais a pena comprar packs de cartas ou cartas individualmente na Steam.
 
 O CSV atualizado é baixado em: https://steam.tools/cards/
 
