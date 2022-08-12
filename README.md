@@ -12,4 +12,6 @@ Extração do csv: https://steam.tools/cards/
 
 # Steam_analisando_dados.ipynb
 
-descrição 2
+## Exemplo de tratamento de dados: Steam
+
+Aqui existe uma lógica, na qual cada game possui um número de cartas para fechar um 'set'. Cada pacote de booster gera 3 cartas aleatórias deste set. Tanto os boosters quanto as cartas podem ser vendidas individualmente
