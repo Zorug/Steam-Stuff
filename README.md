@@ -21,9 +21,9 @@ Aqui existe uma lógica, na qual cada game possui um número de cartas para fech
 ## Dataset Information
 
 - Game - Name of the set's game;
-- # Owned - 
-- # Unique -
-- # Cards - Number of cards in the set;
+- \# Owned - 
+- \# Unique -
+- \# Cards - Number of cards in the set;
 - Badge Lvl -
 - Set Price - The total price of all the cards for the set;
 - Price Diff -
