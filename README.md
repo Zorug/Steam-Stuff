@@ -20,19 +20,19 @@ Aqui existe uma lógica, na qual cada game possui um número de cartas para fech
 
 ## Dataset Information
 
-- Game - Name of the set's game;
-- \# Owned - 
+- Game -        Name of the set's game;
+- \# Owned -    Number of cards of the game owned;
 - \# Unique -
-- \# Cards - Number of cards in the set;
-- Badge Lvl -
-- Set Price - The total price of all the cards for the set;
+- \# Cards -    Number of cards in the set;
+- Badge Lvl -   Level of the game badge (you need a full set tu upgrade it);
+- Set Price -   The total price of all the cards for the set;
 - Price Diff -
-- Card Avg - The total price of all the cards for the set;
+- Card Avg -    The total price of all the cards for the set;
 - Booster Avg - The average price of a card from the set's booster;
-- Booster % - How many percent cheaper average booster cards are for the set;
-- Emote Avg - The average price of the set's emoticons;
-- BG Avg - The average price of the set's backgrounds;
-- Avg Qty - The average quantity of items on the market;
-- Discount - The money you would make by selling all your drops for that game;
-- Added - The date the set was added;
-- AppId -
+- Booster % -   How many percent cheaper average booster cards are for the set;
+- Emote Avg -   The average price of the set's emoticons;
+- BG Avg -      The average price of the set's backgrounds;
+- Avg Qty -     The average quantity of items on the market;
+- Discount -    The money you would make by selling all your drops for that game;
+- Added -       The date the set was added;
+- AppId -       The game Id number.
